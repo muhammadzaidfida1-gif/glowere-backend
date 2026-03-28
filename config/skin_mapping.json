@@ -1,0 +1,26 @@
+{
+  "oily": {
+    "skin_label": "Oily Skin",
+    "summary": "Your skin tends to produce excess sebum, which can lead to acne and shine.",
+    "products": ["GloWin Anti Acne Face Wash", "GloWin Anti Acne Cream", "GlowCare Sunscreen SPF 60"],
+    "routine": "Morning: Face Wash → Sunscreen. Night: Anti Acne Cream."
+  },
+  "dry": {
+    "skin_label": "Dry Skin",
+    "summary": "Your skin needs extra hydration and nourishment.",
+    "products": ["GlowSkin Moisturizer", "GlowVit-C Vitamin C Cream 5%", "GlowCare Sunscreen SPF 60"],
+    "routine": "Morning: Moisturizer → Sunscreen. Night: Vitamin C Cream."
+  },
+  "sensitive": {
+    "skin_label": "Sensitive Skin",
+    "summary": "Your skin reacts easily — gentle, soothing products work best for you.",
+    "products": ["GlowSkin Moisturizer", "Glowpar Cream", "GlowCare Sunscreen SPF 60"],
+    "routine": "Morning: Moisturizer → Sunscreen. Night: Glowpar Cream. Always patch test new products."
+  },
+  "combination": {
+    "skin_label": "Combination Skin",
+    "summary": "Your T-zone is oily but cheeks may be dry or normal — a balanced routine is key.",
+    "products": ["GloWin Anti Acne Face Wash", "GlowSkin Moisturizer", "GlowVit-C Vitamin C Serum 10%"],
+    "routine": "Morning: Face Wash → Moisturizer → Sunscreen. Night: Vitamin C Serum."
+  }
+}

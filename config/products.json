@@ -1,0 +1,92 @@
+{
+  "products": [
+    {
+      "id": "glowitc_cream",
+      "name": "GlowVit-C Vitamin C Cream 5%",
+      "tagline": "Brightens & evens skin tone",
+      "best_for": ["dull skin", "pigmentation", "dry skin", "daily glow"],
+      "usage": "Apply at night after cleansing. Use sunscreen in the morning.",
+      "notes": "Gentle enough for beginners. Pair with sunscreen during the day."
+    },
+    {
+      "id": "glowitc_serum",
+      "name": "GlowVit-C Vitamin C Serum 10%",
+      "tagline": "Powerful brightening + Niacinamide for pores",
+      "best_for": ["dark spots", "pigmentation", "uneven skin tone", "combination skin"],
+      "usage": "Apply 2–3 drops on face after cleansing. Use at night. Always follow with sunscreen.",
+      "notes": "Niacinamide in the formula minimizes pores. Patch test recommended."
+    },
+    {
+      "id": "glowin_cream",
+      "name": "GloWin Anti Acne Cream",
+      "tagline": "Targets acne & controls breakouts",
+      "best_for": ["acne", "pimples", "oily skin", "combination skin"],
+      "usage": "Apply a thin layer on affected areas at night.",
+      "notes": "Use with GloWin Face Wash for best results."
+    },
+    {
+      "id": "glowin_facewash",
+      "name": "GloWin Anti Acne Face Wash",
+      "tagline": "Deep cleans pores & fights acne",
+      "best_for": ["acne", "oily skin", "combination skin"],
+      "usage": "Use twice daily — morning and night.",
+      "notes": "Do not over-wash. Follow with a light moisturizer."
+    },
+    {
+      "id": "glowskin_moisturizer",
+      "name": "GlowSkin Moisturizer",
+      "tagline": "Hydrates & balances all skin types",
+      "best_for": ["dry skin", "combination skin", "sensitive skin", "daily skincare"],
+      "usage": "Apply morning and night after cleansing.",
+      "notes": "Lightweight formula. Suitable for all skin types."
+    },
+    {
+      "id": "glowmark_facewash",
+      "name": "GlowMark Face Wash",
+      "tagline": "Brightening daily face wash",
+      "best_for": ["dull skin", "daily skincare", "uneven skin tone"],
+      "usage": "Use twice daily.",
+      "notes": "Gentle enough for daily use."
+    },
+    {
+      "id": "glowcare_sunscreen",
+      "name": "GlowCare Sunscreen SPF 60",
+      "tagline": "Broad spectrum protection — SPF 60",
+      "best_for": ["all skin types", "daily use", "after actives"],
+      "usage": "Apply every morning as the last step of your skincare routine. Reapply when outdoors.",
+      "notes": "MUST use when using any active ingredient like Vitamin C or anti-acne products."
+    },
+    {
+      "id": "glowmark_cream",
+      "name": "GlowMark Cream",
+      "tagline": "Reduces marks & dark spots",
+      "best_for": ["dark spots", "post-acne marks", "pigmentation"],
+      "usage": "Apply on affected areas twice daily.",
+      "notes": "Pair with sunscreen for maximum results."
+    },
+    {
+      "id": "glowpar_cream",
+      "name": "Glowpar Cream",
+      "tagline": "Soothing & nourishing night cream",
+      "best_for": ["sensitive skin", "dry skin", "overnight repair"],
+      "usage": "Apply at night as the last step.",
+      "notes": "Great for sensitive skin. No harsh actives."
+    },
+    {
+      "id": "glowshine_cream",
+      "name": "GlowShine Whitening Cream",
+      "tagline": "Whitening & brightening night treatment",
+      "best_for": ["dull skin", "uneven tone", "daily glow", "whitening"],
+      "usage": "Apply at night.",
+      "notes": "Use consistently for best results. Combine with sunscreen in the morning."
+    },
+    {
+      "id": "glowmark_serum",
+      "name": "GlowMark Whitening Serum",
+      "tagline": "Targets dark spots & uneven tone",
+      "best_for": ["pigmentation", "dark spots", "post-acne marks", "whitening"],
+      "usage": "Apply 2–3 drops on clean face at night.",
+      "notes": "Always follow with sunscreen in the morning."
+    }
+  ]
+}
