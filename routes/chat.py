@@ -44,8 +44,8 @@ def _product(name: str) -> dict:
     name_lower = name.lower()
     for p in PRODUCT_DB:
         if name_lower in p["name"].lower():
-            return {"name": p["name"], "tagline": p["tagline"], "usage": p["usage"]}
-    return {"name": name, "tagline": "", "usage": ""}
+            return {"name": p["name"], "tagline": p["tagline"], "usage": p["usage"], "url": p.get("url")}
+    return {"name": name, "tagline": "", "usage": "", "url": None}
 
 
 def _products_for(*names: str) -> list:
